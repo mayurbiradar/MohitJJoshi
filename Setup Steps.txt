@@ -1,0 +1,12 @@
+1. pip install selenium
+2. pip install pandas
+3. download chromedriver.exe and keep in driver_path 
+4. Create download_directory
+5. Update path in code(downloadOrders.py) as per your pc
+6. run "python downloadOrders.py"
+
+
+---datafile will get downloaded to download_directory
+---pdf's will get download to download_directory
+
+
